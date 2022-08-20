@@ -35,3 +35,12 @@
 4. Why JAVA is so popular
 5. JRE and JDK
 
+# JDK installation directory
+| Directory name | Description |
+| ----------- | ----------- |
+| bin | This path stores various tool commands, the more important of which are javac and java |
+| conf | This path stores the relevant configuration files |
+| include | This path holds some platform-specific header files |
+| jmods | This path holds the formatting templates |
+| legal | This path holds the license documents for each module |
+| lib | This path stores some additional JAR packages for the tools |
