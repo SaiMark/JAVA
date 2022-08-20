@@ -28,7 +28,7 @@
 | cls | Clear screen |
 | exit | Exit the command prompt window |
 
-#Introduction to JAVA
+# Introduction to JAVA
 1. What is JAVA
 2. JAVA program first experience
 3. Java's past history
