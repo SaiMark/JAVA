@@ -45,7 +45,7 @@
 | legal | This path holds the license documents for each module |
 | lib | This path stores some additional JAR packages for the tools |
 
-#JRE & JDK
+# JRE & JDK
 
 ### What is JD? What are the components?
 **JDK is JAVA Open Toolkit**
