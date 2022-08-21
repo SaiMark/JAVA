@@ -44,3 +44,19 @@
 | jmods | This path holds the formatting templates |
 | legal | This path holds the license documents for each module |
 | lib | This path stores some additional JAR packages for the tools |
+
+#JRE & JDK
+
+### What is JD? What are the components?
+**JDK is JAVA Open Toolkit**
+1. JVM Virtual Machine: where JAVA programs run 
+2. core class library: JAVA has written something that we can use directly
+3. development tools: javac, java, jdb, jhat...
+
+### What is JRE? What are the components?
+1. JRE is the JAVA runtime environment
+2. JVM, core libraries, runtime tools
+
+### JDK, JRE, JVM three contains the relationship
+1. the JDK contains the JRE
+2. JRE contains the JVM
