@@ -20,3 +20,14 @@ English words that have been given a specific meaning by JAVA
 
 ### What does the class keyword mean?
 The class keyword defines a class, followed by the class name.
+
+# Literal
+| Type | Description | Example |
+| ----------- | ----------- | ----------- |
+| int | Numbers without decimal points | 666, -8 |
+| float | Numbers with decimal point | 13.14, -5.21 |
+| String | Contents enclosed in double quotation marks | "Hello World" |
+| Char | Content enclosed in single quotation marks with only one | 'A', '0'|
+| Boolean | Boolean value, indicating true or false | Only: true & false|
+| void | A special value, the null value | null |
+
